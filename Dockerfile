@@ -24,7 +24,7 @@ LABEL version "1.0.0"
 
 # Arguments that can be overriden at build-time.
 ARG INSTALL_ANDROID_SDK=1
-ARG API_LEVEL=33
+ARG API_LEVEL=28
 ARG IMG_TYPE=google_apis
 ARG ARCHITECTURE=x86_64
 ARG CMD_LINE_VERSION=9477386_latest
